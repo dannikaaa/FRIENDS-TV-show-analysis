@@ -2,7 +2,7 @@
 
 Looking to analyse the popular FRIENDS transcripts in Python as many are done in R 
 
-Goals:
+Goals: \n
 -> The one with the closest relationships
 -> The one with the most lines
 -> The one with the favourite phrase
